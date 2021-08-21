@@ -100,12 +100,6 @@ namespace WindowsFormsApp1
             }
         }
 
-        //изменить статус дела
-        private void button1_Click(object sender, EventArgs e)
-        {
-            
-        }
-
         //показать статистику
         private void button2_Click(object sender, EventArgs e)
         {
